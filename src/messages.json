@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Feedback from JaneDoe",
+        "content": "The website layout is very user-friendly and easy to navigate. Great job!",
+        "received": "15 minutes ago"
+    },
+    {
+        "title": "Feedback from TechGuru",
+        "content": "I found the site loading speed to be a bit slow. Could you look into it?",
+        "received": "1 hour ago"
+    },
+    {
+        "title": "Feedback from HappyCustomer",
+        "content": "Excellent customer service and a seamless shopping experience. Keep it up!",
+        "received": "3 hours ago"
+    },
+    {
+        "title": "Feedback from WebDesigner",
+        "content": "The color scheme and typography are very appealing. I love the design!",
+        "received": "6 hours ago"
+    },
+    {
+        "title": "Feedback from Shopper123",
+        "content": "I had trouble finding the product categories. Maybe improve the search functionality?",
+        "received": "1 day ago"
+    },
+    {
+        "title": "Feedback from FrequentVisitor",
+        "content": "I appreciate the regular updates and new content. Keeps me coming back!",
+        "received": "2 days ago"
+    },
+    {
+        "title": "Feedback from NewUser",
+        "content": "Just signed up and I am impressed with the registration process. Very smooth!",
+        "received": "5 days ago"
+    }
+]
